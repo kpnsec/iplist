@@ -1,16 +1,4 @@
-{
-
-
-
-
-"success":
-"true",
-
-
-
-
-"output":
-"Flags:
+Flags:
 D
 -
 DYNAMIC
@@ -80,6 +68,3 @@ silver
 
 mar/15/2024
 10:17:06
-
-"
-}
