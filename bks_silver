@@ -62,7 +62,7 @@ CREATION-TIME
 
 
 
-6
+0
 
 
 ;;;
@@ -101,7 +101,7 @@ silver_internet
 apr/03/2024
 08:53:49
 
-7
+1
 
 
 ;;;
@@ -140,7 +140,7 @@ silver_internet
 apr/03/2024
 08:53:55
 
-8
+2
 
 
 silver_internet
@@ -172,7 +172,7 @@ silver_internet
 nov/07/2024
 10:02:38
 
-9
+3
 
 
 ;;;
@@ -210,7 +210,8 @@ silver_internet
 
 nov/07/2024
 14:22:22
-10
+
+4
 
 
 ;;;
@@ -247,11 +248,20 @@ silver_internet
 
 nov/07/2024
 14:22:50
-11
-D
+
+5
+
+
+;;;
+KB
+
+
+
+
+
 silver_internet
 
-192.168.115.28
+172.16.142.115
 
 
 
@@ -275,4 +285,4 @@ silver_internet
 
 
 nov/07/2024
-14:36:43
+16:09:32
