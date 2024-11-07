@@ -61,7 +61,7 @@ CREATION-TIME
 
 
 
-18
+10
 
 
 ;;;
@@ -98,7 +98,7 @@ platinum_inte...
 
 feb/12/2022
 09:03:04
-24
+16
 
 
 ;;;
@@ -135,7 +135,7 @@ platinum_inte...
 
 mar/18/2024
 08:58:56
-25
+17
 D
 platinum_inte...
 172.16.132.8
@@ -165,7 +165,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:13
-26
+18
 D
 platinum_inte...
 172.16.138.60
@@ -194,7 +194,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:13
-27
+19
 D
 platinum_inte...
 172.16.138.44
@@ -223,7 +223,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:18
-28
+20
 D
 platinum_inte...
 172.16.132.6
@@ -253,7 +253,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:18
-29
+21
 D
 platinum_inte...
 172.16.132.4
@@ -283,7 +283,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:18
-30
+22
 D
 platinum_inte...
 172.16.139.26
@@ -312,7 +312,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:31
-31
+23
 D
 platinum_inte...
 172.16.139.91
@@ -341,7 +341,7 @@ platinum_inte...
 
 jun/18/2024
 13:08:54
-32
+24
 D
 platinum_inte...
 172.16.139.31
@@ -370,7 +370,7 @@ platinum_inte...
 
 jun/18/2024
 13:09:01
-33
+25
 D
 platinum_inte...
 172.16.139.39
@@ -399,7 +399,7 @@ platinum_inte...
 
 jun/18/2024
 13:09:40
-34
+26
 D
 platinum_inte...
 10.194.178.61
@@ -428,7 +428,7 @@ platinum_inte...
 
 jun/19/2024
 06:54:03
-35
+27
 D
 platinum_inte...
 172.16.139.101
@@ -456,7 +456,7 @@ platinum_inte...
 
 jun/19/2024
 08:34:44
-36
+28
 
 
 platinum_inte...
@@ -485,7 +485,7 @@ platinum_inte...
 
 jun/29/2024
 07:56:06
-37
+29
 D
 platinum_inte...
 172.16.139.88
@@ -514,7 +514,7 @@ platinum_inte...
 
 jul/04/2024
 09:43:48
-38
+30
 D
 platinum_inte...
 10.23.85.243
@@ -544,7 +544,7 @@ platinum_inte...
 
 jul/04/2024
 14:58:49
-39
+31
 D
 platinum_inte...
 172.16.138.83
@@ -573,7 +573,7 @@ platinum_inte...
 
 jul/05/2024
 08:16:23
-40
+32
 D
 platinum_inte...
 172.16.139.114
@@ -601,7 +601,7 @@ platinum_inte...
 
 jul/16/2024
 10:05:01
-41
+33
 D
 platinum_inte...
 172.16.138.77
@@ -630,7 +630,7 @@ platinum_inte...
 
 jul/18/2024
 08:03:06
-42
+34
 D
 platinum_inte...
 10.68.151.162
@@ -659,7 +659,7 @@ platinum_inte...
 
 aug/05/2024
 07:22:18
-43
+35
 D
 platinum_inte...
 10.8.9.193
@@ -691,7 +691,7 @@ platinum_inte...
 
 aug/07/2024
 09:16:24
-44
+36
 
 
 ;;;
@@ -728,7 +728,7 @@ platinum_inte...
 
 aug/12/2024
 13:26:55
-45
+37
 
 
 ;;;
@@ -765,7 +765,7 @@ platinum_inte...
 
 aug/12/2024
 13:27:07
-46
+38
 D
 platinum_inte...
 10.0.15.85
@@ -797,7 +797,7 @@ platinum_inte...
 
 aug/15/2024
 07:06:46
-47
+39
 D
 platinum_inte...
 10.169.236.35
@@ -826,7 +826,7 @@ platinum_inte...
 
 aug/16/2024
 08:03:00
-48
+40
 D
 platinum_inte...
 10.11.237.108
@@ -855,7 +855,7 @@ platinum_inte...
 
 aug/16/2024
 12:13:00
-49
+41
 D
 platinum_inte...
 10.192.228.171
@@ -883,7 +883,7 @@ platinum_inte...
 
 aug/19/2024
 10:19:42
-50
+42
 D
 platinum_inte...
 10.18.206.125
@@ -912,7 +912,7 @@ platinum_inte...
 
 aug/21/2024
 08:00:13
-51
+43
 D
 platinum_inte...
 172.16.138.254
@@ -940,7 +940,7 @@ platinum_inte...
 
 aug/21/2024
 15:58:07
-52
+44
 D
 platinum_inte...
 10.166.236.185
@@ -968,7 +968,7 @@ platinum_inte...
 
 aug/30/2024
 07:38:08
-53
+45
 D
 platinum_inte...
 10.192.60.226
@@ -997,7 +997,7 @@ platinum_inte...
 
 sep/12/2024
 09:12:14
-54
+46
 D
 platinum_inte...
 10.162.135.156
@@ -1025,7 +1025,7 @@ platinum_inte...
 
 sep/17/2024
 15:32:07
-55
+47
 
 
 ;;;
@@ -1062,8 +1062,7 @@ platinum_inte...
 
 sep/21/2024
 09:45:06
-
-0
+48
 D
 platinum_inte...
 10.11.150.140
@@ -1092,8 +1091,7 @@ platinum_inte...
 
 sep/30/2024
 08:59:48
-
-1
+49
 D
 platinum_inte...
 172.16.139.150
@@ -1121,8 +1119,7 @@ platinum_inte...
 
 oct/11/2024
 11:25:43
-
-2
+50
 D
 platinum_inte...
 10.78.67.240
@@ -1152,8 +1149,7 @@ platinum_inte...
 
 oct/18/2024
 12:20:09
-
-3
+51
 D
 platinum_inte...
 10.70.188.22
@@ -1183,8 +1179,7 @@ platinum_inte...
 
 oct/18/2024
 13:04:19
-
-4
+52
 D
 platinum_inte...
 10.217.208.200
@@ -1212,8 +1207,7 @@ platinum_inte...
 
 oct/30/2024
 08:06:56
-
-5
+53
 D
 platinum_inte...
 10.10.3.3
@@ -1225,53 +1219,3 @@ platinum_inte...
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-nov/05/2024
-12:32:22
-
-6
-D
-platinum_inte...
-172.16.139.155
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-nov/06/2024
-10:22:24
