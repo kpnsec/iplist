@@ -62,7 +62,7 @@ CREATION-TIME
 
 
 
-0
+6
 
 
 ;;;
@@ -101,7 +101,7 @@ gold_internet
 mar/27/2024
 11:17:24
 
-1
+7
 
 
 ;;;
@@ -111,4 +111,30 @@ JPN-Device
 
 
 
-gold_interne
+gold_internet
+
+
+
+192.168.168.0/24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+may/07/2024
+16:00:08
