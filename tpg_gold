@@ -1,8 +1,14 @@
+Flags:
+D
+-
+DYNAMIC
 Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
 #
+
+
 LIST
 
 
@@ -33,10 +39,23 @@ CREATION-TIME
 
 
 
-0
+4
+
+
 gold_internet
 
 192.168.119.0/24
 
 may/22/2025
 14:41:18
+5
+D
+gold_internet
+
+172.16.34.232
+
+
+
+
+may/23/2025
+15:17:59
