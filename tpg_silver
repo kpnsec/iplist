@@ -1,8 +1,14 @@
+Flags:
+D
+-
+DYNAMIC
 Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
 #
+
+
 LIST
 
 
@@ -33,6 +39,8 @@ CREATION-TIME
 
 
 0
+
+
 silver_internet
 
 172.16.34.235
@@ -42,6 +50,8 @@ may/22/2025
 ;;;
 temp-HW-SAP
 1
+
+
 silver_internet
 
 172.16.34.241
@@ -51,9 +61,19 @@ may/23/2025
 ;;;
 temp
 2
+
+
 silver_internet
 
 172.16.33.253
 
 may/23/2025
 11:08:55
+3
+D
+silver_internet
+
+172.16.33.254
+
+may/23/2025
+15:15:22
