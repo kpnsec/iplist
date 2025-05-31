@@ -6,7 +6,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 
 
@@ -38,18 +37,6 @@ CREATION-TIME
 
 
 
-
-;;;
-temp
-12
-
-
-silver_internet
-
-172.16.34.227
-
-may/23/2025
-16:17:38
 
 3
 D
