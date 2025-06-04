@@ -2,7 +2,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 LIST
 
@@ -35,8 +34,7 @@ CREATION-TIME
 
 
 
-
-5
+0
 platinum_internet
 
 172.16.32.10
@@ -44,8 +42,7 @@ platinum_internet
 
 jan/03/1970
 00:47:01
-
-6
+1
 platinum_internet
 
 172.16.32.11
@@ -53,8 +50,7 @@ platinum_internet
 
 jan/03/1970
 00:47:07
-
-7
+2
 platinum_internet
 
 172.16.32.12
@@ -66,8 +62,7 @@ jan/03/1970
 andiharistio
 wifi
 laptop
-
-8
+3
 platinum_internet
 
 172.16.34.251
@@ -78,8 +73,7 @@ may/23/2025
 andiharistio
 wifi
 smartphone
-
-9
+4
 platinum_internet
 
 172.16.34.249
@@ -88,7 +82,7 @@ may/23/2025
 09:13:21
 ;;;
 PA
-10
+5
 platinum_internet
 
 172.16.32.40
@@ -98,7 +92,7 @@ may/21/2025
 17:54:08
 ;;;
 Synology
-11
+6
 platinum_internet
 
 172.16.32.4
