@@ -2,7 +2,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 LIST
 
@@ -35,7 +34,6 @@ CREATION-TIME
 
 ;;;
 Rachel
-
 0
 silver_internet
 
@@ -43,12 +41,3 @@ silver_internet
 
 may/23/2025
 11:08:55
-;;;
-temp
-17
-silver_internet
-
-172.16.33.218
-
-may/23/2025
-16:17:38
