@@ -6,7 +6,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 
 
@@ -40,7 +39,7 @@ CREATION-TIME
 
 
 
-14
+0
 
 
 gold_internet
@@ -49,7 +48,7 @@ gold_internet
 
 may/22/2025
 14:41:18
-15
+1
 D
 gold_internet
 
@@ -60,7 +59,7 @@ gold_internet
 
 jun/18/2025
 14:09:50
-16
+2
 D
 gold_internet
 
@@ -71,7 +70,7 @@ gold_internet
 
 jun/18/2025
 14:09:50
-17
+3
 D
 gold_internet
 
