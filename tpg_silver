@@ -2,7 +2,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 LIST
 
@@ -35,8 +34,7 @@ CREATION-TIME
 
 ;;;
 Rachel
-
-0
+4
 silver_internet
 
 172.16.33.251
@@ -48,7 +46,7 @@ Farah
 Temp
 laptop
 baru
-18
+5
 silver_internet
 
 172.16.34.43
