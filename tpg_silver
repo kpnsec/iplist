@@ -6,6 +6,7 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
+
 #
 
 
@@ -42,7 +43,8 @@ CREATION-TIME
 
 ;;;
 temp
-3
+
+8
 
 
 silver_internet
@@ -54,7 +56,8 @@ silver_internet
 
 may/23/2025
 16:17:38
-4
+
+9
 D
 silver_internet
 
@@ -64,7 +67,7 @@ silver_internet
 
 oct/06/2025
 16:23:50
-5
+10
 D
 silver_internet
 
@@ -74,7 +77,7 @@ silver_internet
 
 oct/07/2025
 08:18:27
-6
+11
 D
 silver_internet
 
@@ -84,7 +87,7 @@ silver_internet
 
 oct/07/2025
 14:08:58
-7
+12
 D
 silver_internet
 
@@ -95,7 +98,7 @@ silver_internet
 
 oct/21/2025
 10:38:17
-8
+13
 D
 silver_internet
 
