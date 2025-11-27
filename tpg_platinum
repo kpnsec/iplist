@@ -6,7 +6,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 
 
@@ -40,8 +39,7 @@ CREATION-TIME
 
 
 
-
-4
+0
 
 
 platinum_internet
@@ -50,8 +48,7 @@ platinum_internet
 
 jan/03/1970
 00:47:01
-
-5
+1
 
 
 platinum_internet
@@ -60,8 +57,7 @@ platinum_internet
 
 jan/03/1970
 00:47:07
-
-6
+2
 
 
 platinum_internet
@@ -72,8 +68,7 @@ jan/03/1970
 00:47:12
 ;;;
 PA
-
-7
+3
 
 
 platinum_internet
@@ -84,8 +79,7 @@ may/21/2025
 17:54:08
 ;;;
 Synology
-
-8
+4
 
 
 platinum_internet
@@ -95,8 +89,7 @@ platinum_internet
 
 may/23/2025
 09:04:59
-
-9
+5
 
 
 platinum_internet
@@ -105,7 +98,7 @@ platinum_internet
 
 jun/19/2025
 13:12:40
-10
+6
 
 
 platinum_internet
@@ -114,7 +107,7 @@ platinum_internet
 
 jun/19/2025
 13:41:07
-11
+7
 
 
 platinum_internet
@@ -123,7 +116,7 @@ platinum_internet
 
 jun/19/2025
 13:41:12
-12
+8
 D
 platinum_internet
 
