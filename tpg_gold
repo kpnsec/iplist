@@ -29,6 +29,9 @@ ADDRESS
 
 
 
+
+
+
 CREATION-TIME
 
 
@@ -37,11 +40,25 @@ CREATION-TIME
 
 
 
+;;;
+Guest-Internet
+16
+
+
+gold_internet
+
+192.168.119.0/24
+
+may/22/2025
+14:41:18
 15
 D
 gold_internet
 
 172.16.34.239
+
+
+
 
 feb/03/2026
 09:02:19
