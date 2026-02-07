@@ -6,7 +6,6 @@ Columns:
 LIST,
 ADDRESS,
 CREATION-TIME
-
 #
 
 
@@ -41,7 +40,7 @@ CREATION-TIME
 
 
 
-11
+1
 D
 silver_internet
 
@@ -52,7 +51,7 @@ silver_internet
 
 jan/18/2026
 07:55:43
-12
+2
 D
 silver_internet
 
@@ -62,7 +61,7 @@ silver_internet
 
 jan/19/2026
 07:58:11
-13
+3
 D
 silver_internet
 
@@ -72,7 +71,7 @@ silver_internet
 
 jan/19/2026
 08:05:58
-14
+4
 D
 silver_internet
 
@@ -82,7 +81,7 @@ silver_internet
 
 jan/19/2026
 10:27:11
-15
+5
 D
 silver_internet
 
@@ -90,7 +89,7 @@ silver_internet
 
 jan/19/2026
 14:45:45
-16
+6
 D
 silver_internet
 
@@ -100,7 +99,7 @@ silver_internet
 
 jan/28/2026
 08:06:09
-17
+7
 D
 silver_internet
 
